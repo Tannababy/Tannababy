@@ -1,6 +1,6 @@
 # Hi there, I'm Lotanna 👋🏾
 
-Full-Stack Developer with experience building web applications, APIs, and backend systems using JavaScript, Node.js, SQL, and Java.
+London based Full-Stack Developer with experience building web applications, APIs, and backend systems using JavaScript, Node.js, SQL, and Java.
 
 I enjoy creating practical software solutions while continuously expanding my skills across modern web technologies, backend development, and automation.
 
@@ -26,13 +26,11 @@ I enjoy creating practical software solutions while continuously expanding my sk
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,typescript,javascript,spring,nodejs,mysql,html,css,sass,docker" />
+  </a>
+</p>
 
 ## Projects
 
@@ -44,8 +42,6 @@ I enjoy creating practical software solutions while continuously expanding my sk
 | Snap Game | Java | Two-player card game simulation implementing object-oriented design principles. | [Repo](https://github.com/Tannababy/cardGame-Snap) |
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannababy&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannababy&layout=compact)
 
