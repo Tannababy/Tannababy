@@ -28,7 +28,7 @@ I enjoy creating practical software solutions while continuously expanding my sk
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,typescript,javascript,spring,nodejs,mysql,html,css,sass,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,java,ts,js,scala,spring,nodejs,express,mysql,postman,docker" />
   </a>
 </p>
 
